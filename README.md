@@ -36,6 +36,6 @@ cd graph-neural-networks
 pip install -r requirements.txt
 
 
-## 🚀 Contents
+##  Contents
 
-- [x] 📂 gcn_basics — Introduction to GCNs and first experiments
+- gcn_basics — Introduction to GCNs and first experiments
