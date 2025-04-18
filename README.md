@@ -38,4 +38,4 @@ pip install -r requirements.txt
 
 ##  Contents
 
-- gcn_basics — Introduction to GCNs and first experiments
+- [x] gcn_basics — Introduction to GCNs and first experiments
