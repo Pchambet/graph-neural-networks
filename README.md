@@ -6,7 +6,7 @@ Welcome to my personal repository where I learn and explore Graph Neural Network
 
 - Understand the theoretical foundations of GNNs
 - Implement core models such as GCN, GAT, GIN, etc.
-- Apply GNNs to real-world tasks (e.g. molecular property prediction, social networks...)
+- Apply GNNs to real-world tasks (molecular property prediction)
 
 ##  Project Structure
 
