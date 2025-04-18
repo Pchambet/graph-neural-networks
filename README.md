@@ -1,18 +1,14 @@
-# graph-neural-networks
-Exploring and learning Graph Neural Networks (GNNs) step by step.
-
-
-# 🧠 Graph Neural Networks (GNN) – Learning Journey
+# 🧠Graph Neural Networks (GNN) – Learning Journey
 
 Welcome to my personal repository where I learn and explore Graph Neural Networks (GNNs) from scratch.
 
-## 📚 Goals
+##  Goals
 
 - Understand the theoretical foundations of GNNs
 - Implement core models such as GCN, GAT, GIN, etc.
 - Apply GNNs to real-world tasks (e.g. molecular property prediction, social networks...)
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 graph-neural-networks/
@@ -32,7 +28,7 @@ graph-neural-networks/
 ```
 
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 git clone https://github.com/Pchambet/graph-neural-networks.git
