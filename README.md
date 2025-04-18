@@ -34,3 +34,8 @@ graph-neural-networks/
 git clone https://github.com/Pchambet/graph-neural-networks.git
 cd graph-neural-networks
 pip install -r requirements.txt
+
+
+## 🚀 Contents
+
+- [x] 📂 gcn_basics — Introduction to GCNs and first experiments
