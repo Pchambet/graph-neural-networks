@@ -1,4 +1,4 @@
-# 🧠Graph Neural Networks (GNN) – Learning Journey
+# Graph Neural Networks (GNN) – Learning Journey
 
 Welcome to my personal repository where I learn and explore Graph Neural Networks (GNNs) from scratch.
 
