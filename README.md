@@ -8,8 +8,7 @@ Welcome to *my personal repository* where I dive deep into Deep Learning — fro
 ---
 
 ## Why This Exists
-
-Hello.  
+ 
 Today, you stand before this notebook, and I see someone who wants things to change.  
 But most importantly, I see someone who is ready to take full responsibility for their learning.
 
