@@ -1,4 +1,4 @@
-# Deep Learning – Learning Journey
+# Deep Learning Journey
 
 Welcome to *my personal repository* where I dive deep into Deep Learning — from scratch, with patience, tenacity, and curiosity.
 
@@ -7,11 +7,11 @@ Welcome to *my personal repository* where I dive deep into Deep Learning — fro
 
 ---
 
-## 🚀 Why This Exists
+## Why This Exists
 
 Hello.  
 Today, you stand before this notebook, and I see someone who wants things to change.  
-But most importantly, I see someone who is **ready to take full responsibility** for their learning.
+But most importantly, I see someone who is ready to take full responsibility for their learning.
 
 That's rare.  
 But who said that *pearls are easy to find*?
@@ -20,7 +20,7 @@ Welcome to a notebook written by someone who once asked the same question you're
 **"WTF is Deep Learning? How does this REALLY work?"**
 
 This notebook is hard.  
-But this notebook is also a **journey** — one that will take you from basic neurons to cutting-edge architectures.  
+But this notebook is also a journey — one that will take you from basic neurons to cutting-edge architectures.  
 And don’t worry. I’m not a teacher. I’m a learner — just like you.  
 But I’ve made a choice.  
 And if you’re reading this, **so have you**.
@@ -33,7 +33,7 @@ The rest is just tenacity.
 
 This repo is split into two main parts:
 
-### 1. 📘 Theoretical Part
+### 1. Theoretical Part
 A beginner-friendly yet rigorous walkthrough of the *core concepts*.  
 Includes:
 - Simple explanations
@@ -41,7 +41,7 @@ Includes:
 - Visual illustrations
 - Backpropagation math, activation functions, cost functions, and more.
 
-### 2. 💻 Practical Part
+### 2. Practical Part
 Hands-on coding tutorials to implement what you've learned.  
 Includes:
 - Building neural networks from scratch (NumPy)
@@ -50,18 +50,18 @@ Includes:
 
 ---
 
-## 📂 Where to Start
+## Where to Start
 
-👉 Begin your journey with **`theory_00.ipynb`**.  
+Begin your journey with **`theory_00.ipynb`**.  
 You’ll be amazed by what you’re capable of understanding.
 
 ---
 
-## ✨ Final Words
+## Final Words
 
 This is not just code.  
 This is not just theory.  
-This is **your learning journey**, with all its doubts, breakthroughs, and little “aha!” moments.
+This is **your learning journey**, with all its doubts, breakthroughs, and realization moments.
 
 Stay curious. Stay tenacious. Let’s go.
 
