@@ -29,7 +29,7 @@ The rest is just tenacity.
 
 ---
 
-## 🧭 Structure of the Notebook
+## Structure of the Notebook
 
 This repo is split into two main parts:
 
