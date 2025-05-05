@@ -1,4 +1,4 @@
-# Deep Learning Journey
+# What the Funk is Deep Learning?
 
 Welcome to *my personal repository* where I dive deep into Deep Learning — from scratch, with patience, tenacity, and curiosity.
 
@@ -16,7 +16,7 @@ That's rare.
 But who said that *pearls are easy to find*?
 
 Welcome to a notebook written by someone who once asked the same question you're asking now:  
-**"WTF is Deep Learning? How does this REALLY work?"**
+**"WTFunk is Deep Learning? How does this REALLY work?"**
 
 This notebook is hard.  
 But this notebook is also a journey — one that will take you from basic neurons to cutting-edge architectures.  
